@@ -1,0 +1,154 @@
+{
+        "Client": {
+            "nom": "Dupont",
+            "prenom" : "Jean",
+            "date_naissance": "1985-03-12",
+            "lieu_naissance": "Paris",
+            "Profession": "Ingénieur informatique",
+            "adresse_fiscale": "45 rue des Lilas, 75015 Paris",
+            "telephone": "+33 6 12 34 56 78",
+            "email": "jean.dupont@example.com",
+            "situation_matrimoniale":"AAAA",
+            "regime_matrimonial" : "FFFFFE",
+            "date_union" : "TT3",
+            "date_creation" : "YYY/MM/DD",
+            "profilsClients":"OO",
+            "profil_risque":5,
+            "connaissance_financieres":"Moyenne",
+            "remarques":"des remarques"
+        },
+        "conjoint": {
+            "nom": "Martin",
+            "prenom":"Sophie",
+            "date_naissance":"1985-03-12",
+            "lieu_naissance": "Lyon",
+            "profession": "Architecte",
+            "telephone": "+33 6 87 65 43 21",
+            "email": "sophie.martin@example.com",
+            "forme_legale": "Mariage - Régime de la communauté réduite aux acquêts",
+            "depuis": "2010-06-15"
+        },
+        "enfants": [
+            {
+                "nom": "Dupont, Emma",
+                "prenom": "Emma",
+                "date_naissance": "2012-04-10",
+                "a_charge": "À charge",
+                "remarques": "Scolarité en école privée"
+            },
+            {
+                "nom": "Dupont, Lucas",
+                "prenom": "Lucas",
+                "date_naissance": "2012-04-10",  
+                "a_charge": "À charge",
+                "remarques": "None"
+            }
+        ],
+        "personnes_a_charge":[
+            {
+                "nom":"AA",
+                "prenom":"BB",
+                "date_naissance":"2022-01-20",
+                "remarques":"GGGG"
+             },
+            {
+                "nom":"AA",
+                "prenom":"BB",
+                "date_naissance":"2022-01-20",
+                "remarques":"GGGG"
+            }
+        ],
+    "revenus":
+        [
+            {
+                "montant": 3000,
+                "nature": "Salaire",
+                "frequence": "Mensuel",
+                "hors_france": false,
+                "remarques": "Salaire stable, aucune variation notable.",
+                "propriétaire": "Self"
+              },
+              {
+                "montant": 12000,
+                "nature": "Dividendes",
+                "frequence": "Annuel",
+                "hors_france": true,
+                "remarques": "Revenus provenant d'actions dans une société étrangère.",
+                "propriétaire": "Conjoint"
+              }
+        ],
+    "PMI_ESG":
+    {
+        "objectif_env_dur_social_souhaite": 12.5,
+        "patrimoine": 500000
+    },
+    "objectifClient":
+    [
+        {
+            "objectif": "Maximiser les rendements à long terme avec un faible risque",
+            "priorite": 1,
+            "horizon": 10,
+            "status": "active"
+          },
+          {
+            "objectif": "Réduire l'empreinte carbone de l'investissement",
+            "priorite": 2,
+            "horizon": 5,
+            "status": "pending"
+          }
+    ],
+    "passifs":
+    [
+        {
+            "nature": "prêt immobilier",
+            "capital_restant_du": 150000,
+            "remboursement_annuel": 18000,
+            "duree_restante": 120,
+            "propriétaire": "Self"
+          },
+          {
+            "nature": "prêt à la consommation",
+            "capital_restant_du": 8000,
+            "remboursement_annuel": 1200,
+            "duree_restante": 36,
+            "propriétaire": "Conjoint"
+          }  
+    ],
+    "immobilier":
+    [
+        {
+            "localisation": "Paris, France",
+            "valeur_indicative": 350000,
+            "depuis_quand": "2020-05-15T00:00:00Z",
+            "propriétaire": "Self"
+          },
+          {
+            "localisation": "Lyon, France",
+            "valeur_indicative": 250000,
+            "depuis_quand": "2018-08-22T00:00:00Z",
+            "propriétaire": "Conjoint"
+          }
+    ],
+    "produits_epargne":
+    [{
+        "mode_gestion": "self-managed",
+        "est_actuel": true,
+        "propriétaire": "Self"
+      },
+      {
+        "mode_gestion": "property manager",
+        "est_actuel": true,
+        "propriétaire": "Conjoint"
+      }
+    ],
+     "Autres_Impots_Acquittes":
+      ["TVA", "Taxe d'habitation", "Impôt sur les sociétés"],
+      "capaciteEpargne":
+      {
+              "montant": 1500,
+              "periodicite": "monthly",
+              "quote_part_patrimoine": 25.5,
+              "endettement_global": 45.2     
+      }
+     
+}
