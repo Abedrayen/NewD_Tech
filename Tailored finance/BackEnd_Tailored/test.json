@@ -1,0 +1,415 @@
+{
+    "nom": "fsderfsed",
+    "prenom": "fsfsdfsdf",
+    "date_naissance": "2025-01-24",
+    "lieu_naissance": "sdefsdfsd",
+    "profession": "dsfsdfsdf",
+    "adresse_fiscale": "sdfsdf",
+    "telephone": "sdfsdf",
+    "email": "sdfsdf",
+    "situation_matrimoniale": "",
+    "regime_matrimonial": "",
+    "conjoint": {
+        "nom": "sdfsdf",
+        "prenom": "sdfsdf",
+        "date_naissance": "2024-12-31",
+        "lieu_naissance": "sdf",
+        "profession": "sdfsdf",
+        "telephone": "sdfsd",
+        "email": "fsdfsdfs",
+        "forme_legale": "sd",
+        "depuis": "2025-01-16"
+    },
+    "personnes_a_charge": [
+        {
+            "nom": "sdfdsfsd",
+            "prenom": "sdfsdfds"
+        }
+    ],
+    "enfants": [
+        {
+            "name": "",
+            "dob": "",
+            "status": "À charge",
+            "remarks": "",
+            "nom": "sdfsdfsdf",
+            "date_naissance": "2025-01-12",
+            "statut": "Non à charge",
+            "remarques": "sdfsdf"
+        }
+    ],
+    "revenus": [
+        {
+            "montant": "10000",
+            "nature": "Salaire",
+            "frequence": "Mensuel",
+            "hors_france": false,
+            "remarques": "dsfsedf"
+        }
+    ],
+    "passifs": [],
+    "immobilier": [
+        {
+            "localisation": "hfdrgthftgh",
+            "valeur": "101010",
+            "emprunt": "101010",
+            "dateFin": "2025-01-19",
+            "mensualite": "10101",
+            "dateAcq": "2025-01-09",
+            "estimation": "1010",
+            "restant": "4242",
+            "taux": "4242",
+            "duree": "uyjkuyk"
+        }
+    ],
+    "autreBien": [
+        {
+            "biens": "refgreg",
+            "valeurAchat": "5535",
+            "valeurActuelle": "5353",
+            "emprunt": "5353",
+            "dateFin": "2025-01-10",
+            "mensualite": "5353",
+            "loyer": "5353",
+            "rapport_locatif": "uyjkhujk",
+            "dateAcq": "2025-01-08",
+            "estimation": "5353",
+            "taux": "5353",
+            "restant": "5353",
+            "rentabilite": "5353"
+        }
+    ],
+    "autreEmprunts": [
+        {
+            "destination": "nhgnghn",
+            "montant": "42141",
+            "taux": "rgfdgb",
+            "dateFin": "2025-01-10",
+            "mensualite": "4141",
+            "commentaires": "fvfvdfb",
+            "restant": "4141"
+        }
+    ],
+    "projets": [
+        {
+            "type": "travaux",
+            "valeurAchat": "4141",
+            "emprunt": "1441",
+            "dateFin": "",
+            "mensualite": "414141",
+            "loyer": "4141",
+            "rapportLocatif": "iukuiyk",
+            "taux": "414",
+            "duree": "iuliu",
+            "rentabilite": "414"
+        }
+    ],
+    "liquidite": [
+        {
+            "nom": "hjhgj",
+            "valeur": "4141",
+            "rentabilite": "41",
+            "risque": "4",
+            "disponible": "4141",
+            "gestionnaire": "kjiu;",
+            "gestion": "sous mandat",
+            "objectif": "ghj",
+            "dateOuverture": "2025-01-23",
+            "organisme": "hgj",
+            "support": "ghj",
+            "satisfait": "ghj"
+        }
+    ],
+    "placementFinancier": [
+        {
+            "nom": "kjlkjl",
+            "valeur": "414",
+            "rentabilite": "10",
+            "risque": "2",
+            "disponible": "4242",
+            "gestionnaire": "jikl",
+            "gestion": "sous mandat",
+            "objectif": "yjhg",
+            "dateOuverture": "2025-01-16",
+            "organisme": "gfhgfh",
+            "support": "gfhgfh",
+            "satisfait": "hgfh"
+        }
+    ],
+    "autreFinancier": [
+        {
+            "nom": "jnghjhg",
+            "valeur": "4114",
+            "rentabilite": "4141",
+            "risque": "",
+            "disponible": "4141",
+            "gestionnaire": "jhkjhk",
+            "gestion": "sous mandat",
+            "objectif": "hjkhjk",
+            "dateOuverture": "2025-01-30",
+            "organisme": "jhkhjk",
+            "support": "hujkhjk",
+            "satisfait": "hjkhjk"
+        }
+    ],
+    "patrimoineProfessionnel": [
+        {
+            "formeJuridique": "542354",
+            "nombreAssocie": "45242",
+            "detention": "452",
+            "dateCreation": "2025-01-15",
+            "valorisation": "452",
+            "passif": "452",
+            "tresorerie": "452",
+            "CA": "452",
+            "benefice": "452",
+            "activite": "452"
+        }
+    ],
+    "profil_risque": "7",
+    "pmiesg": {
+        "objectif_env_dur_social_souhaite": "10",
+        "patrimoine": "4"
+    },
+    "connaissance_financieres": "moyenne",
+    "objectif_clients": [
+        {
+            "objectif": "sdfsdf",
+            "priorite": "4",
+            "horizon": "4",
+            "status": "inactif"
+        }
+    ],
+    "produit_epargne": [
+        {
+            "mode_gestion": "fdgdfgdfg",
+            "est_actuel": false,
+            "proprietaire": "commun"
+        }
+    ],
+    "autre_impots_acquittes": [
+        "453254"
+    ],
+    "capaciteEpargne": {}
+}
+
+
+{
+    "nom": "hjgfhjgfhj",
+    "prenom": "ghfcxjngchnj",
+    "date_naissance": "2025-01-15",
+    "lieu_naissance": "ghjnghvnjc",
+    "profession": "jgchjcghj",
+    "adresse_fiscale": "jghghcjghc",
+    "telephone": "gchjnhgcj",
+    "email": "jhcgjh@gmail.com",
+    "situation_matrimoniale": "",
+    "regime_matrimonial": "",
+    "conjoint": {
+        "nom": "cghjcghj",
+        "prenom": "ghcjhgcj",
+        "date_naissance": "2025-01-02",
+        "lieu_naissance": "gchjcghj",
+        "profession": "cghjcghj",
+        "telephone": "gchjcghj",
+        "email": "jhcgjh@gmail.com",
+        "forme_legale": "gchjgchj",
+        "depuis": "2025-01-16"
+    },
+    "personnes_a_charge": [
+        {
+            "nom": "ghfjgfhj",
+            "prenom": "hgjfghj"
+        },
+        {
+            "nom": "gfjyhghj",
+            "prenom": "hgfjghfj"
+        }
+    ],
+    "enfants": [
+        {
+            "name": "",
+            "dob": "",
+            "status": "À charge",
+            "remarks": "",
+            "nom": "ghcjghjghfjgfhj",
+            "remarques": "gjyhghfj",
+            "statut": "Non à charge",
+            "date_naissance": "2025-01-16"
+        },
+        {
+            "nom": "jghfjgf",
+            "date_naissance": "2025-01-07",
+            "statut": "Non à charge",
+            "remarques": "jfghhgjgyhfgh"
+        }
+    ],
+    "revenus": [
+        {
+            "montant": "456546",
+            "nature": "Salaire",
+            "frequence": "Mensuel",
+            "hors_france": false,
+            "remarques": "uyikuyfik"
+        }
+    ],
+    "passifs": [],
+    "immobilier": [
+        {
+            "localisation": "hujkuhgk",
+            "valeur": "453453",
+            "emprunt": "543543",
+            "dateFin": "",
+            "mensualite": "543543",
+            "dateAcq": "2025-01-16",
+            "estimation": "453453",
+            "restant": "453453",
+            "taux": "453453",
+            "duree": "453453"
+        }
+    ],
+    "autreBien": [
+        {
+            "biens": "hjgkujh",
+            "valeurAchat": "453453",
+            "valeurActuelle": "54354",
+            "emprunt": "453453",
+            "dateFin": "2025-01-16",
+            "mensualite": "543453",
+            "loyer": "453453",
+            "rapportLocatif": "yulkklykig",
+            "dateAcq": "2025-01-22",
+            "estimation": "453453",
+            "taux": "453453",
+            "restant": "543453",
+            "rentabilite": "453543"
+        },
+        {
+            "biens": "yujkuykg",
+            "valeurAchat": "453543",
+            "valeurActuelle": "543543",
+            "emprunt": "453543",
+            "dateFin": "2025-01-11",
+            "mensualite": "5463543",
+            "loyer": "543543",
+            "rapportLocatif": "ughjkuhjk",
+            "dateAcq": "2025-01-15",
+            "estimation": "453453",
+            "taux": "453543",
+            "restant": "45345",
+            "rentabilite": "453453"
+        }
+    ],
+    "autreEmprunts": [
+        {
+            "destination": "ghyjghyjghj",
+            "montant": "5646",
+            "taux": "ytjhghj",
+            "dateFin": "2025-01-02",
+            "mensualite": "5466345",
+            "commentaires": "uyfkjuy",
+            "restant": "45345345"
+        }
+    ],
+    "projets": [
+        {
+            "type": "travaux",
+            "valeurAchat": "543453",
+            "emprunt": "532453",
+            "dateFin": "2025-01-11",
+            "mensualite": "75",
+            "loyer": "543453",
+            "rapportLocatif": "jkomlokjm",
+            "taux": "453543",
+            "duree": "453453",
+            "rentabilite": "453453"
+        }
+    ],
+    "liquidite": [
+        {
+            "nom": "hgjghjh",
+            "valeur": "423453",
+            "rentabilite": "53543",
+            "risque": "3",
+            "disponible": "453453",
+            "gestionnaire": "uykjhujgk",
+            "gestion": "sous mandat",
+            "objectif": "ftghgh",
+            "dateOuverture": "2025-01-29",
+            "organisme": "gfhxdfh",
+            "support": "ghgfch",
+            "satisfait": "gxhgxfch"
+        }
+    ],
+    "placementFinancier": [
+        {
+            "nom": "gfyhjngjgh",
+            "valeur": "543543",
+            "rentabilite": "542354",
+            "risque": "2",
+            "disponible": "45345",
+            "gestionnaire": "kiliuglk",
+            "gestion": "sous mandat",
+            "objectif": "jgyjh",
+            "dateOuverture": "2025-01-09",
+            "organisme": "hgjhgj",
+            "support": "gfhjghfj",
+            "satisfait": "ghfjghj"
+        }
+    ],
+    "autrePF": [
+        {
+            "nom": "gytjgyfj",
+            "valeur": "543543",
+            "rentabilite": "42453",
+            "risque": "3",
+            "disponible": "564356",
+            "gestionnaire": "gjcgfhj",
+            "gestion": "",
+            "objectif": "ghjhgj",
+            "dateOuverture": "",
+            "organisme": "gfyhjghj",
+            "support": "uhjgkguhjk",
+            "satisfait": "gjgvj"
+        }
+    ],
+    "patrimoineProfessionnel": [
+        {
+            "formeJuridique": "ghfjghjf",
+            "nombreAssocie": "52",
+            "detention": "45245",
+            "dateCreation": "",
+            "valorisation": "452",
+            "passif": "452",
+            "tresorerie": "452",
+            "CA": "452",
+            "benefice": "745",
+            "activite": "ftgyukij"
+        }
+    ],
+    "profil_risque": "4",
+    "pmiesg": {
+        "objectif_env_dur_social_souhaite": "7",
+        "patrimoine": "5000"
+    },
+    "connaissance_financieres": "bonne",
+    "objectif_clients": [
+        {
+            "objectif": "hjygjhyg",
+            "priorite": "4",
+            "horizon": "44",
+            "status": "en cours"
+        }
+    ],
+    "produit_epargne": [
+        {
+            "mode_gestion": "ytujyftgujyftj",
+            "est_actuel": false,
+            "proprietaire": ""
+        }
+    ],
+    "autre_impots_acquittes": [
+        "500000"
+    ],
+    "capaciteEpargne": {}
+}
