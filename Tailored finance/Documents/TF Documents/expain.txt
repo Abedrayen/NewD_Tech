@@ -1,0 +1,15 @@
+Active =/ Active partiel
+Profilage risuque par client
+Listes des produits/ renumeration des cabines
+3 Admin
+MacOS
+Un contrat d'assurance vie 
+Hostorique de chaque client
+Ptentie Manuel:
+
+A 
+AA
+AAA
+Filetrage selon date/produit
+Type status : Commercial/Compliance
+total earnings : somme renumeration
